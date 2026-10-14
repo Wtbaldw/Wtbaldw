@@ -1,4 +1,4 @@
-# William Baldwin
+# Trueman Baldwin
 
 Computer science student at the College of Charleston (B.S., May 2027). I build backend and
 full-stack systems in TypeScript and PostgreSQL. The work I like most is the part nobody sees:
@@ -6,7 +6,7 @@ two buyers can't both claim the last item, one tenant can never read another ten
 a webhook delivered twice only takes effect once.
 
 Looking for software engineering internships and new-grad roles. Case studies for each system are on my
-portfolio: **[williambaldwin.netlify.app](https://williambaldwin.netlify.app)**.
+portfolio: **[truemanbaldwin.netlify.app](https://truemanbaldwin.netlify.app)**.
 
 ## What I've built
 
@@ -56,4 +56,4 @@ Vitest · Jest · GitHub Actions
 
 ## Contact
 
-truemanbaldwin@gmail.com · [Portfolio](https://williambaldwin.netlify.app) · [LinkedIn](https://www.linkedin.com/in/truemanbaldwin)
+truemanbaldwin@gmail.com · [Portfolio](https://truemanbaldwin.netlify.app) · [LinkedIn](https://www.linkedin.com/in/truemanbaldwin)
