@@ -5,7 +5,8 @@ full-stack systems in TypeScript and PostgreSQL. The work I like most is the par
 two buyers can't both claim the last item, one tenant can never read another tenant's data, and
 a webhook delivered twice only takes effect once.
 
-Looking for software engineering internships and new-grad roles.
+Looking for software engineering internships and new-grad roles. Case studies for each system are on my
+portfolio: **[williambaldwin.netlify.app](https://williambaldwin.netlify.app)**.
 
 ## What I've built
 
@@ -19,6 +20,8 @@ These repos are private. I'm glad to walk through any of them in an interview.
 - Stripe webhooks record the event id before any side effect, so a duplicate delivery short-circuits.
 
 **LeadVault**: multi-tenant AI phone receptionist on Twilio and Stripe · [leadvault.baldwinseo.com](https://leadvault.baldwinseo.com)
+- Built for a family-owned contractor. In production since June 2026, it has answered 149 of their missed
+  calls with a full AI conversation (15 seconds or longer, spam excluded), 34 of them after hours.
 - Closed a check-then-act race in call allowances with one row-locking Postgres function
   (`SELECT … FOR UPDATE`) that reserves the slot before the call connects, plus a per-call claim
   stamp so webhook retries don't double-count.
@@ -53,4 +56,4 @@ Vitest · Jest · GitHub Actions
 
 ## Contact
 
-truemanbaldwin@gmail.com · [LinkedIn](https://www.linkedin.com/in/truemanbaldwin)
+truemanbaldwin@gmail.com · [Portfolio](https://williambaldwin.netlify.app) · [LinkedIn](https://www.linkedin.com/in/truemanbaldwin)
