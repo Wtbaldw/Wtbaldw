@@ -38,10 +38,6 @@ These repos are private. I'm glad to walk through any of them in an interview.
 - Prompt caching on a stable system prefix, token streaming to the browser over Server-Sent
   Events across four routes, and child-process agent workers with rate-limit detection and backoff.
 
-**Horry Lead Engine**: property data pipeline
-- Seven-stage ETL over ~301K county parcels and a 1.19M-row deed index. Overlapping runs are
-  serialized by a Postgres advisory lock, and bulk scans use keyset pagination instead of OFFSET.
-
 ## Public code
 
 - **[construction-rag-assistant](https://github.com/Wtbaldw/construction-rag-assistant)**: local
