@@ -1,12 +1,9 @@
 # Trueman Baldwin
 
 Computer science student at the College of Charleston (B.S., May 2027). I build backend and
-full-stack systems in TypeScript and PostgreSQL. The work I like most is the part nobody sees:
-two buyers can't both claim the last item, one tenant can never read another tenant's data, and
-a webhook delivered twice only takes effect once.
+full-stack systems in TypeScript and PostgreSQL. 
 
-Looking for software engineering internships and new-grad roles. Case studies for each system are on my
-portfolio: **[truemanbaldwin.netlify.app](https://truemanbaldwin.netlify.app)**.
+Looking for software engineering internships and new-grad roles.
 
 ## What I've built
 
