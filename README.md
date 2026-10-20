@@ -49,4 +49,4 @@ Vitest · Jest · GitHub Actions
 
 ## Contact
 
-truemanbaldwin@gmail.com · [Portfolio](https://truemanbaldwin.netlify.app) · [LinkedIn](https://www.linkedin.com/in/truemanbaldwin)
+truemanbaldwin@gmail.com | [LinkedIn](https://www.linkedin.com/in/truemanbaldwin)
